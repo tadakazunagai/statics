@@ -6,4 +6,4 @@
 
 ## 説明
 
-* [ロボット工学―静力学](http://nurobot.jp/~nagai/robotics.html#118f7d33-516c-42d9-9ad0-70b43da2461b
+* [ロボット工学―静力学](http://nurobot.jp/~nagai/robotics.html#118f7d33-516c-42d9-9ad0-70b43da2461)
